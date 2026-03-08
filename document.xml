@@ -19,11 +19,6 @@
     <pkg:xmlData>&#xD;
       <coreProperties xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">&#xD;
         <dc:title></dc:title>&#xD;
-        <dc:creator>Dmytro Tryfonov</dc:creator>&#xD;
-        <lastModifiedBy>Dmitry Trifonov</lastModifiedBy>&#xD;
-        <revision>6</revision>&#xD;
-        <dcterms:created xsi:type="dcterms:W3CDTF">2023-09-15T03:20:00.0000000Z</dcterms:created>&#xD;
-        <dcterms:modified xsi:type="dcterms:W3CDTF">2026-03-08T00:14:58.0487098Z</dcterms:modified>&#xD;
       </coreProperties>&#xD;
     </pkg:xmlData>&#xD;
   </pkg:part>&#xD;
@@ -46,7 +41,7 @@
     <pkg:xmlData>&#xD;
       <w:document xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">&#xD;
         <w:body>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:line="20" w:lineRule="exact"></w:spacing>&#xD;
@@ -65,7 +60,7 @@
               <mc:AlternateContent>&#xD;
                 <mc:Choice Requires="wpg">&#xD;
                   <w:drawing>&#xD;
-                    <wp:inline xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" distB="0" distL="0" distR="0" distT="0" wp14:anchorId="4D022655" wp14:editId="2C545E4E">&#xD;
+                    <wp:inline distB="0" distL="0" distR="0" distT="0">&#xD;
                       <wp:extent cx="6604000" cy="17145"></wp:extent>&#xD;
                       <wp:effectExtent b="3175" l="15240" r="10160" t="8255"></wp:effectExtent>&#xD;
                       <wp:docPr id="1770525413" name="docshapegroup1"></wp:docPr>&#xD;
@@ -125,8 +120,8 @@
                   </w:drawing>&#xD;
                 </mc:Choice>&#xD;
                 <mc:Fallback>&#xD;
-                  <w:pict wp14:anchorId="5281C679">&#xD;
-                    <v:group coordsize="10400,27" id="docshapegroup1" style="width:520pt;height:1.35pt;mso-position-horizontal-relative:char;mso-position-vertical-relative:line" wp14:anchorId="5CA388DD" o:gfxdata="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&#xA;eG1sUEsFBgAAAAAEAAQA8wAAAIUFAAAAAA==&#xA;" o:spid="_x0000_s1026">&#xD;
+                  <w:pict>&#xD;
+                    <v:group coordsize="10400,27" id="docshapegroup1" style="width:520pt;height:1.35pt;mso-position-horizontal-relative:char;mso-position-vertical-relative:line" o:gfxdata="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&#xA;eG1sUEsFBgAAAAAEAAQA8wAAAIUFAAAAAA==&#xA;" o:spid="_x0000_s1026">&#xD;
                       <v:line from="0,13" id="Line 42" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;visibility:visible;mso-wrap-style:square" to="10400,13" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQCQ4vueyQAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/dasJA&#xA;EIXvhb7DMgXvdJOooaauIoJQ6EU18QGm2WmSNjsbsqvGt3cLgpeH8/NxVpvBtOJCvWssK4inEQji&#xA;0uqGKwWnYj95A+E8ssbWMim4kYPN+mW0wkzbKx/pkvtKhBF2GSqove8yKV1Zk0E3tR1x8H5sb9AH&#xA;2VdS93gN46aVSRSl0mDDgVBjR7uayr/8bALk9nlI89lXkZvi97s5zFrq9rFS49dh+w7C0+Cf4Uf7&#xA;QytIlul8sYyTFP4vhTsg13cAAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA&#xA;AAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAV&#xA;AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAkOL7nskAAADi&#xA;AAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAP0CAAAA&#xA;AA==&#xA;" o:spid="_x0000_s1027"></v:line>&#xD;
                       <w10:anchorlock></w10:anchorlock>&#xD;
                     </v:group>&#xD;
@@ -135,7 +130,7 @@
               </mc:AlternateContent>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="1"></w:spacing>&#xD;
@@ -145,7 +140,7 @@
               </w:rPr>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="Title"></w:pStyle>&#xD;
             </w:pPr>&#xD;
@@ -156,7 +151,7 @@
               <w:t>Dmytro Tryfonov</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="196"></w:spacing>&#xD;
@@ -170,7 +165,7 @@
               <mc:AlternateContent>&#xD;
                 <mc:Choice Requires="wpg">&#xD;
                   <w:drawing>&#xD;
-                    <wp:anchor xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" allowOverlap="1" behindDoc="1" distB="0" distL="0" distR="0" distT="0" layoutInCell="1" locked="0" relativeHeight="487588352" simplePos="0" wp14:anchorId="26C35507" wp14:editId="5DD5AFE2">&#xD;
+                    <wp:anchor allowOverlap="1" behindDoc="1" distB="0" distL="0" distR="0" distT="0" layoutInCell="1" locked="0" relativeHeight="487588352" simplePos="0">&#xD;
                       <wp:simplePos x="0" y="0"></wp:simplePos>&#xD;
                       <wp:positionH relativeFrom="page">&#xD;
                         <wp:posOffset>601980</wp:posOffset>&#xD;
@@ -277,8 +272,8 @@
                   </w:drawing>&#xD;
                 </mc:Choice>&#xD;
                 <mc:Fallback>&#xD;
-                  <w:pict wp14:anchorId="79C7EE4A">&#xD;
-                    <v:group coordorigin="933,629" coordsize="10400,107" id="docshapegroup2" style="position:absolute;margin-left:47.4pt;margin-top:29.3pt;width:520pt;height:5.35pt;z-index:-15728128;mso-wrap-distance-left:0;mso-wrap-distance-right:0;mso-position-horizontal-relative:page" wp14:anchorId="278D06AC" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
+                  <w:pict>&#xD;
+                    <v:group coordorigin="933,629" coordsize="10400,107" id="docshapegroup2" style="position:absolute;margin-left:47.4pt;margin-top:29.3pt;width:520pt;height:5.35pt;z-index:-15728128;mso-wrap-distance-left:0;mso-wrap-distance-right:0;mso-position-horizontal-relative:page" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQDm3/9hXQIAAKcGAAAOAAAAZHJzL2Uyb0RvYy54bWzUlV1v2yAUhu8n7T8g7hd/xEtiK04vkrY3&#xA;3Rap3Q8gGH9oGBCQOPn3O4CTNu3FpG6qNEWywAeO3/O8B7K8OfYcHZg2nRQlTiYxRkxQWXWiKfHP&#xA;p7svC4yMJaIiXApW4hMz+Gb1+dNyUAVLZSt5xTSCJMIUgypxa60qosjQlvXETKRiAoK11D2xMNVN&#xA;VGkyQPaeR2kcz6JB6kppSZkx8HYTgnjl89c1o/ZHXRtmES8xaLP+qf1z557RakmKRhPVdnSUQd6h&#xA;oiedgI9eUm2IJWivuzep+o5qaWRtJ1T2kazrjjJfA1STxK+quddyr3wtTTE06oIJ0L7i9O609Pvh&#xA;XqtHtdVBPQwfJP1lgEs0qKZ4GXfzJixGu+GbrMBPsrfSF36sde9SQEno6PmeLnzZ0SIKL2ezOItj&#xA;sIFCbDbPs6+BP23BJLcrn04xcrE0P0dux72J2xp2JvHcRSNShI96oaMwZzx0knmGZf4O1mNLFPMe&#xA;GAdjq1FXlXie5otFBj+MBOmBw0MnGMp8PzkBsHItAlN6FCNTJOS6JaJhPufTScG+xFdytcVNDBjy&#xA;R8ZJMj3zyqaB15n0SMrruXAihdLG3jPZIzcoMQfR3jxyeDA2ID0vcV4Keddx7o8IF2gAtTPnkAsZ&#xA;ybvKRf1EN7s11+hA4JTlaZ7lZ4OulkE3i8pnaxmpbsexJR0PYxDKhe+7ACB4uZPVaauduNHZD7J4&#xA;kedptkiS5MriqW/MK79I8REWz9P/wWLXPRti2tAK5mQ20obO/Gfm+9MOt6G/AMab2123L+e+WZ7/&#xA;X1a/AQAA//8DAFBLAwQUAAYACAAAACEAs8nYk98AAAAJAQAADwAAAGRycy9kb3ducmV2LnhtbEyP&#xA;QW+CQBCF7036HzZj0ltdKJUoshhj2p5Mk2qTprcRRiCys4RdAf99l1M9znsv732TbkbdiJ46WxtW&#xA;EM4DEMS5KWouFXwf35+XIKxDLrAxTApuZGGTPT6kmBRm4C/qD64UvoRtggoq59pESptXpNHOTUvs&#xA;vbPpNDp/dqUsOhx8uW7kSxDEUmPNfqHClnYV5ZfDVSv4GHDYRuFbv7+cd7ff4+LzZx+SUk+zcbsG&#xA;4Wh0/2GY8D06ZJ7pZK5cWNEoWL16cqdgsYxBTH4YTcpJQbyKQGapvP8g+wMAAP//AwBQSwECLQAU&#xA;AAYACAAAACEAtoM4kv4AAADhAQAAEwAAAAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnht&#xA;bFBLAQItABQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAAAAAAAAAAAAAAC8BAABfcmVscy8ucmVs&#xA;c1BLAQItABQABgAIAAAAIQDm3/9hXQIAAKcGAAAOAAAAAAAAAAAAAAAAAC4CAABkcnMvZTJvRG9j&#xA;LnhtbFBLAQItABQABgAIAAAAIQCzydiT3wAAAAkBAAAPAAAAAAAAAAAAAAAAALcEAABkcnMvZG93&#xA;bnJldi54bWxQSwUGAAAAAAQABADzAAAAwwUAAAAA&#xA;" o:spid="_x0000_s1026">&#xD;
                       <v:line from="11333,643" id="Line 40" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;visibility:visible;mso-wrap-style:square" to="11333,643" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQBMpiduxgAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE/LisIw&#xA;FN0P+A/hCu40VQftdIwigiC4UFs/4E5zp602N6WJWv9+IgjDWR3Oi7NYdaYWd2pdZVnBeBSBIM6t&#xA;rrhQcM62wxiE88gaa8uk4EkOVsvexwITbR98onvqCxFK2CWooPS+SaR0eUkG3cg2xEH7ta1BH2hb&#xA;SN3iI5SbWk6iaCYNVhwWSmxoU1J+TW8mjDz3x1k6PWSpyS4/1XFaU7MdKzXod+tvEJ46/29+p3da&#xA;wXzyFcefAfC6FO6AXP4BAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAA&#xA;AAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAA&#xA;CwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEATKYnbsYAAADiAAAA&#xA;DwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPoCAAAAAA==&#xA;" o:spid="_x0000_s1027"></v:line>&#xD;
                       <v:line from="11333,723" id="Line 39" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;visibility:visible;mso-wrap-style:square" to="11333,723" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQDz1LgTywAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9RS8Mw&#xA;FIXfBf9DuIIv4tLOIU1dNlQQi2MPbvsB1+aujTY3pYlr/fdGGPh4OOd8h7NcT64TJxqC9awhn2Ug&#xA;iGtvLDcaDvuX2wJEiMgGO8+k4YcCrFeXF0ssjR/5nU672IgE4VCihjbGvpQy1C05DDPfEyfv6AeH&#xA;McmhkWbAMcFdJ+dZdi8dWk4LLfb03FL9tft2GrYbO27ePj5vrHra3h1rVS3Ua6X19dX0+AAi0hT/&#xA;w+d2ZTQUSs0XRZ7n8Hcp3QG5+gUAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAA&#xA;AAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAA&#xA;ABUBAAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQDz1LgTywAA&#xA;AOIAAAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA/wIA&#xA;AAAA&#xA;" o:spid="_x0000_s1028">&#xD;
                         <v:stroke dashstyle="1 1"></v:stroke>&#xD;
@@ -402,7 +397,7 @@
               </w:r>&#xD;
             </w:hyperlink>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="11"></w:spacing>&#xD;
@@ -411,7 +406,7 @@
               </w:rPr>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="Heading1"></w:pStyle>&#xD;
             </w:pPr>&#xD;
@@ -422,7 +417,7 @@
               <mc:AlternateContent>&#xD;
                 <mc:Choice Requires="wps">&#xD;
                   <w:drawing>&#xD;
-                    <wp:anchor xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15734272" simplePos="0" wp14:anchorId="2EA1A464" wp14:editId="41D5A59B">&#xD;
+                    <wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15734272" simplePos="0">&#xD;
                       <wp:simplePos x="0" y="0"></wp:simplePos>&#xD;
                       <wp:positionH relativeFrom="page">&#xD;
                         <wp:posOffset>592455</wp:posOffset>&#xD;
@@ -483,8 +478,8 @@
                   </w:drawing>&#xD;
                 </mc:Choice>&#xD;
                 <mc:Fallback>&#xD;
-                  <w:pict wp14:anchorId="7B7140F3">&#xD;
-                    <v:line from="46.65pt,9.95pt" id="Line 37" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15734272;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="226.6pt,9.95pt" wp14:anchorId="7430DB08" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
+                  <w:pict>&#xD;
+                    <v:line from="46.65pt,9.95pt" id="Line 37" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15734272;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="226.6pt,9.95pt" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQAFX56JwQEAAGMDAAAOAAAAZHJzL2Uyb0RvYy54bWysU8uO2yAU3VfqPyD2jROnk06sOLNIOt1M&#xA;20gz8wE3gG1UzEVcEsd/XyCPjtpdNRsE93E453BZPZx6w47Kk0Zb89lkypmyAqW2bc1fXx4/3XNG&#xA;AawEg1bVfFTEH9YfP6wGV6kSOzRSeRZBLFWDq3kXgquKgkSneqAJOmVjskHfQ4hH3xbSwxDRe1OU&#xA;0+miGNBL51EoohjdnpN8nfGbRonws2lIBWZqHrmFvPq87tNarFdQtR5cp8WFBvwHix60jZfeoLYQ&#xA;gB28/geq18IjYRMmAvsCm0YLlTVENbPpX2qeO3Aqa4nmkLvZRO8HK34cN3bnE3Vxss/uCcUvYhY3&#xA;HdhWZQIvo4sPN0tWFYOj6taSDuR2nu2H7yhjDRwCZhdOje8TZNTHTtns8Wa2OgUmYrAs7+/mizvO&#xA;xDVXQHVtdJ7CN4U9S5uaG22TD1DB8YlCIgLVtSSFLT5qY/JbGsuGyHaxnM9zB6HRMmVTHfl2vzGe&#xA;HSGOw7Jcfl5+ybJi5m1Zgt4Cdec6GmmL4TwpHg9W5ns6BfLrZR9Am/M+8jL24lOyJs0hVXuU485f&#xA;/YsvmQVcpi6Nyttz7v7zN9a/AQAA//8DAFBLAwQUAAYACAAAACEAHxqhpN4AAAAIAQAADwAAAGRy&#xA;cy9kb3ducmV2LnhtbEyPzU7DMBCE75V4B2uRuLXOD6AmxKkqJFAP5dCC4OrG2yRqvA6x24Y+PYs4&#xA;wHFnRrPfFIvRduKEg28dKYhnEQikypmWagVvr0/TOQgfNBndOUIFX+hhUV5NCp0bd6YNnrahFlxC&#xA;PtcKmhD6XEpfNWi1n7keib29G6wOfA61NIM+c7ntZBJF99LqlvhDo3t8bLA6bI9WgVkncUzBrj9W&#xA;tFy9zC/P/eflXamb63H5ACLgGP7C8IPP6FAy084dyXjRKcjSlJOsZxkI9m/v0gTE7leQZSH/Dyi/&#xA;AQAA//8DAFBLAQItABQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAAAAAAAAAAAAAAAAAAABbQ29u&#xA;dGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhADj9If/WAAAAlAEAAAsAAAAAAAAAAAAAAAAA&#xA;LwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAAVfnonBAQAAYwMAAA4AAAAAAAAAAAAAAAAA&#xA;LgIAAGRycy9lMm9Eb2MueG1sUEsBAi0AFAAGAAgAAAAhAB8aoaTeAAAACAEAAA8AAAAAAAAAAAAA&#xA;AAAAGwQAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAABAAEAPMAAAAmBQAAAAA=&#xA;" o:spid="_x0000_s1026">&#xD;
                       <v:stroke dashstyle="1 1"></v:stroke>&#xD;
                       <w10:wrap anchorx="page"></w10:wrap>&#xD;
                     </v:line>&#xD;
@@ -499,7 +494,7 @@
               <mc:AlternateContent>&#xD;
                 <mc:Choice Requires="wps">&#xD;
                   <w:drawing>&#xD;
-                    <wp:anchor xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15734784" simplePos="0" wp14:anchorId="0A2C68AC" wp14:editId="21079CE3">&#xD;
+                    <wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15734784" simplePos="0">&#xD;
                       <wp:simplePos x="0" y="0"></wp:simplePos>&#xD;
                       <wp:positionH relativeFrom="page">&#xD;
                         <wp:posOffset>4894580</wp:posOffset>&#xD;
@@ -560,8 +555,8 @@
                   </w:drawing>&#xD;
                 </mc:Choice>&#xD;
                 <mc:Fallback>&#xD;
-                  <w:pict wp14:anchorId="5199E2C4">&#xD;
-                    <v:line from="385.4pt,9.95pt" id="Line 36" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15734784;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="566.65pt,9.95pt" wp14:anchorId="0A3782AA" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
+                  <w:pict>&#xD;
+                    <v:line from="385.4pt,9.95pt" id="Line 36" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15734784;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="566.65pt,9.95pt" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
                       <v:stroke dashstyle="1 1"></v:stroke>&#xD;
                       <w10:wrap anchorx="page"></w10:wrap>&#xD;
                     </v:line>&#xD;
@@ -583,10 +578,10 @@
               <w:rPr>&#xD;
                 <w:spacing w:val="-2"></w:spacing>&#xD;
               </w:rPr>&#xD;
-              <w:t>Summary Version 3</w:t>&#xD;
+              <w:t>Summary Version 4</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="59" w:line="271" w:lineRule="auto"></w:spacing>&#xD;
@@ -602,7 +597,7 @@
               <w:t>Appian Automation Developer focused on improving business efficiency through innovative technical solutions.</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="92"></w:spacing>&#xD;
@@ -619,7 +614,7 @@
               <mc:AlternateContent>&#xD;
                 <mc:Choice Requires="wps">&#xD;
                   <w:drawing>&#xD;
-                    <wp:anchor xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15729664" simplePos="0" wp14:anchorId="64B847E1" wp14:editId="5716BA91">&#xD;
+                    <wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15729664" simplePos="0">&#xD;
                       <wp:simplePos x="0" y="0"></wp:simplePos>&#xD;
                       <wp:positionH relativeFrom="page">&#xD;
                         <wp:posOffset>747395</wp:posOffset>&#xD;
@@ -864,8 +859,8 @@
                   </w:drawing>&#xD;
                 </mc:Choice>&#xD;
                 <mc:Fallback>&#xD;
-                  <w:pict wp14:anchorId="0AE4B21B">&#xD;
-                    <v:shape coordsize="97,97" fillcolor="#383839" id="docshape3" path="m48,96l30,92,14,82,4,66,,48,4,29,14,14,30,3,48,,67,3,82,14,93,29r3,19l93,66,82,82,67,92,48,96xe" stroked="f" style="position:absolute;margin-left:58.85pt;margin-top:9.5pt;width:4.85pt;height:4.85pt;z-index:15729664;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page;v-text-anchor:top" wp14:anchorId="1A4E415C" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
+                  <w:pict>&#xD;
+                    <v:shape coordsize="97,97" fillcolor="#383839" id="docshape3" path="m48,96l30,92,14,82,4,66,,48,4,29,14,14,30,3,48,,67,3,82,14,93,29r3,19l93,66,82,82,67,92,48,96xe" stroked="f" style="position:absolute;margin-left:58.85pt;margin-top:9.5pt;width:4.85pt;height:4.85pt;z-index:15729664;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page;v-text-anchor:top" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
                       <v:path arrowok="t" o:connectangles="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" o:connectlocs="30480,181610;19050,179070;8890,172720;2540,162560;0,151130;2540,139065;8890,129540;19050,122555;30480,120650;42545,122555;52070,129540;59055,139065;60960,151130;59055,162560;52070,172720;42545,179070;30480,181610" o:connecttype="custom"></v:path>&#xD;
                       <w10:wrap anchorx="page"></w10:wrap>&#xD;
                     </v:shape>&#xD;
@@ -880,7 +875,7 @@
               <w:t>4+ years of experience in the software development life cycle using Appian and .Net framework</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="37" w:line="271" w:lineRule="auto"></w:spacing>&#xD;
@@ -903,7 +898,7 @@
               <mc:AlternateContent>&#xD;
                 <mc:Choice Requires="wps">&#xD;
                   <w:drawing>&#xD;
-                    <wp:anchor xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15730176" simplePos="0" wp14:anchorId="0CAA61D3" wp14:editId="683A0CC9">&#xD;
+                    <wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15730176" simplePos="0">&#xD;
                       <wp:simplePos x="0" y="0"></wp:simplePos>&#xD;
                       <wp:positionH relativeFrom="page">&#xD;
                         <wp:posOffset>747395</wp:posOffset>&#xD;
@@ -1148,8 +1143,8 @@
                   </w:drawing>&#xD;
                 </mc:Choice>&#xD;
                 <mc:Fallback>&#xD;
-                  <w:pict wp14:anchorId="33792281">&#xD;
-                    <v:shape coordsize="97,97" fillcolor="#383839" id="docshape4" path="m48,96l30,92,14,82,4,67,,48,4,29,14,14,30,4,48,,67,4,82,14,93,29r3,19l93,67,82,82,67,92,48,96xe" stroked="f" style="position:absolute;margin-left:58.85pt;margin-top:6.9pt;width:4.85pt;height:4.85pt;z-index:15730176;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page;v-text-anchor:top" wp14:anchorId="46B8E873" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
+                  <w:pict>&#xD;
+                    <v:shape coordsize="97,97" fillcolor="#383839" id="docshape4" path="m48,96l30,92,14,82,4,67,,48,4,29,14,14,30,4,48,,67,4,82,14,93,29r3,19l93,67,82,82,67,92,48,96xe" stroked="f" style="position:absolute;margin-left:58.85pt;margin-top:6.9pt;width:4.85pt;height:4.85pt;z-index:15730176;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQDpkCGIGQUAAMsTAAAOAAAAZHJzL2Uyb0RvYy54bWysmGuPozYUhr9X6n+w+NhqJ7G55KLJrKpd&#xA;bVVpe5GW/gCHQIJKMLWZyWx/fc8xOGuYQ4KqaqRAxm8O73l8fMGP71/PFXvJtSlVvQv4wzJgeZ2p&#xA;Q1kfd8Gf6ad364CZVtYHWak63wVfcxO8f/r+u8dLs82FOqnqkGsGQWqzvTS74NS2zXaxMNkpP0vz&#xA;oJq8hsZC6bNs4as+Lg5aXiD6uVqI5TJZXJQ+NFpluTHw349dY/Bk4xdFnrW/F4XJW1btAvDW2k9t&#xA;P/f4uXh6lNujls2pzHob8j+4OMuyhodeQ32UrWTPunwT6lxmWhlVtA+ZOi9UUZRZbnOAbPhylM2X&#xA;k2xymwvAMc0Vk/n/wma/vXxp/tBo3TSfVfaXASKLS2O21xb8YkDD9pdf1QH6UD63yib7Wugz/hLS&#xA;YK+W6dcr0/y1ZRn8M+HxJg5YBi3dLcaXW/fT7Nm0P+fKhpEvn03bdcgB7izOA6vlGZ6ZQucV5wr6&#xA;5sd3bMm4EDHjfLXqO/Aq4072w4KlS3ZhmzcS4SQ2kggjxsP1OE7oRBAHJSciUOQ0vaXlirQE2XfO&#xA;0VJEWkqcpLcECb61tHIia2lJWoLR5lPiG05a2jgZWlqTlvgQuBCkJ+7zRg3FiQ+Jc76mXXEfesoF&#xA;7WtIXSyhDt6y4j501JC+htixnEha3Cef8oT2NUK/TkhfPnkOGsqXGKKf5CV8+CnAJ6t9BD+BHN/y&#xA;Ej56DhrS1xA9n6ou4cNPBV3yYgQ/FqQvHz0HDelrhF5MDEThw08FXffhCH5E+gp99Bw0lK9whH5q&#xA;zgp9+GlI1304gh+uKV6hjx76mfY1Qi8imAKJuTT04achXfdQS4MpZ4KXj36KVzRCL+IN6Svy4acR&#xA;XffRCD5dX5GPfqq+ohF6sYK5kOAV+fBTgEqNx2gEnx6PkY9+ajxGI/RiFdK+fPhpRNd9PIJPz1+x&#xA;j35q/opH6Kd4xT78FDqI4hUP4U/M97GPfmq+j0fop+or9uGnMV338RD+xPoY++in1sdkhH5qPCY+&#xA;/DSh6z4ZwhchuW4nPnrUUPNXMkQ/uedKfPhpQtd9MoQ/se1KfPT+vgu2jEe3KZQnt0/MXut+owh3&#xA;TOI7x9LuTBtlcEeaAjHYeKYhbu8gBKhwVzkhhjRQbDeMd8XQsSiGDdCc0Li1sfJ4nhwwWPlmlhw3&#xA;AiiHVXyOGVyfrXxeprhsohzWvDnRcTWz8nmp4iJj5fNSxbkf5TBxzzGDU7KVz0s16lOFaW5OdJzA&#xA;MDrMPrPkfaowKcyR43DH6DBWZ8n7VGEIefKujvtBouF1ePwirAMGL8J7/I3cNrLFseVu2WUXwPsT&#xA;O9kL/vesXvJU2fYWBxguQeBxk/TP/NZe1b4Od1WoE73OtbprY6NxmHBAtb6t6kTXNF0Id+1Cdc8D&#xA;ex0L1+iunaiLBPV9S9SbgsstVZ/gbVFPy546QMc4M+7amcIpECDcjgSIUHTH1KarzzsJQufZB95m&#xA;1ce6g733dacH+xTvVMO4thymrFIm7/oC69VO7NfCxXr3jhSMqsrDp7KqsGSNPu4/VJq9SDgMCtfw&#xA;53p+IKvsGlEr/Jnr8v5MBI9B8GjJbPfq8BWORLTqTpTgBAxuTkr/E7ALnCbtAvP3s9R5wKpfajiu&#xA;2fAId7et/RLFK3zF037L3m+RdQahdkEbwJqGtx/a7sjqudHl8QRP4naVq9VPcBRTlHhoYs9sOlf9&#xA;Fzgxsmz60y08kvK/W9W3M7infwEAAP//AwBQSwMEFAAGAAgAAAAhACz0ru/fAAAACQEAAA8AAABk&#xA;cnMvZG93bnJldi54bWxMj01Lw0AQhu+C/2EZwZvdNLWmpNkUEYoWqdAaet5mxySanQ3ZbZP+e6cn&#xA;vc3LPLwf2Wq0rThj7xtHCqaTCARS6UxDlYLic/2wAOGDJqNbR6jggh5W+e1NplPjBtrheR8qwSbk&#xA;U62gDqFLpfRljVb7ieuQ+PfleqsDy76SptcDm9tWxlH0JK1uiBNq3eFLjeXP/mQVbPDy/fZeVPhR&#xA;LvphW+w2h/XrXKn7u/F5CSLgGP5guNbn6pBzp6M7kfGiZT1NEkb5mPGEKxAnjyCOCuLZHGSeyf8L&#xA;8l8AAAD//wMAUEsBAi0AFAAGAAgAAAAhALaDOJL+AAAA4QEAABMAAAAAAAAAAAAAAAAAAAAAAFtD&#xA;b250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAOP0h/9YAAACUAQAACwAAAAAAAAAAAAAA&#xA;AAAvAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEA6ZAhiBkFAADLEwAADgAAAAAAAAAAAAAA&#xA;AAAuAgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEALPSu798AAAAJAQAADwAAAAAAAAAA&#xA;AAAAAABzBwAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAEAAQA8wAAAH8IAAAAAA==&#xA;" o:spid="_x0000_s1026">&#xD;
                       <v:path arrowok="t" o:connectangles="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" o:connectlocs="30480,148590;19050,146050;8890,139700;2540,130175;0,118110;2540,106045;8890,96520;19050,90170;30480,87630;42545,90170;52070,96520;59055,106045;60960,118110;59055,130175;52070,139700;42545,146050;30480,148590" o:connecttype="custom"></v:path>&#xD;
                       <w10:wrap anchorx="page"></w10:wrap>&#xD;
                     </v:shape>&#xD;
@@ -1164,7 +1159,7 @@
               <w:t>.</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:line="271" w:lineRule="auto"></w:spacing>&#xD;
@@ -1187,7 +1182,7 @@
               <mc:AlternateContent>&#xD;
                 <mc:Choice Requires="wps">&#xD;
                   <w:drawing>&#xD;
-                    <wp:anchor xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15730688" simplePos="0" wp14:anchorId="7F77A262" wp14:editId="030E44DD">&#xD;
+                    <wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15730688" simplePos="0">&#xD;
                       <wp:simplePos x="0" y="0"></wp:simplePos>&#xD;
                       <wp:positionH relativeFrom="page">&#xD;
                         <wp:posOffset>747395</wp:posOffset>&#xD;
@@ -1432,8 +1427,8 @@
                   </w:drawing>&#xD;
                 </mc:Choice>&#xD;
                 <mc:Fallback>&#xD;
-                  <w:pict wp14:anchorId="2583F0FE">&#xD;
-                    <v:shape coordsize="97,97" fillcolor="#383839" id="docshape5" path="m48,96l30,92,14,82,4,66,,48,4,29,14,14,30,3,48,,67,3,82,14,93,29r3,19l93,66,82,82,67,92,48,96xe" stroked="f" style="position:absolute;margin-left:58.85pt;margin-top:5.15pt;width:4.85pt;height:4.85pt;z-index:15730688;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page;v-text-anchor:top" wp14:anchorId="1053F410" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
+                  <w:pict>&#xD;
+                    <v:shape coordsize="97,97" fillcolor="#383839" id="docshape5" path="m48,96l30,92,14,82,4,66,,48,4,29,14,14,30,3,48,,67,3,82,14,93,29r3,19l93,66,82,82,67,92,48,96xe" stroked="f" style="position:absolute;margin-left:58.85pt;margin-top:5.15pt;width:4.85pt;height:4.85pt;z-index:15730688;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page;v-text-anchor:top" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
                       <v:path arrowok="t" o:connectangles="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" o:connectlocs="30480,126365;19050,123825;8890,117475;2540,107315;0,95885;2540,83820;8890,74295;19050,67310;30480,65405;42545,67310;52070,74295;59055,83820;60960,95885;59055,107315;52070,117475;42545,123825;30480,126365" o:connecttype="custom"></v:path>&#xD;
                       <w10:wrap anchorx="page"></w10:wrap>&#xD;
                     </v:shape>&#xD;
@@ -1442,7 +1437,7 @@
               </mc:AlternateContent>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:line="271" w:lineRule="auto"></w:spacing>&#xD;
@@ -1458,7 +1453,7 @@
               <mc:AlternateContent>&#xD;
                 <mc:Choice Requires="wps">&#xD;
                   <w:drawing>&#xD;
-                    <wp:anchor xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15731200" simplePos="0" wp14:anchorId="2B9D756D" wp14:editId="076D8973">&#xD;
+                    <wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15731200" simplePos="0">&#xD;
                       <wp:simplePos x="0" y="0"></wp:simplePos>&#xD;
                       <wp:positionH relativeFrom="page">&#xD;
                         <wp:posOffset>747395</wp:posOffset>&#xD;
@@ -1703,8 +1698,8 @@
                   </w:drawing>&#xD;
                 </mc:Choice>&#xD;
                 <mc:Fallback>&#xD;
-                  <w:pict wp14:anchorId="046CC41B">&#xD;
-                    <v:shape coordsize="97,97" fillcolor="#383839" id="docshape6" path="m48,96l30,92,14,82,4,67,,48,4,29,14,14,30,4,48,,67,4,82,14,93,29r3,19l93,67,82,82,67,92,48,96xe" stroked="f" style="position:absolute;margin-left:58.85pt;margin-top:4.95pt;width:4.85pt;height:4.85pt;z-index:15731200;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page;v-text-anchor:top" wp14:anchorId="41902D7B" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
+                  <w:pict>&#xD;
+                    <v:shape coordsize="97,97" fillcolor="#383839" id="docshape6" path="m48,96l30,92,14,82,4,67,,48,4,29,14,14,30,4,48,,67,4,82,14,93,29r3,19l93,67,82,82,67,92,48,96xe" stroked="f" style="position:absolute;margin-left:58.85pt;margin-top:4.95pt;width:4.85pt;height:4.85pt;z-index:15731200;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page;v-text-anchor:top" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
                       <v:path arrowok="t" o:connectangles="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" o:connectlocs="30480,123825;19050,121285;8890,114935;2540,105410;0,93345;2540,81280;8890,71755;19050,65405;30480,62865;42545,65405;52070,71755;59055,81280;60960,93345;59055,105410;52070,114935;42545,121285;30480,123825" o:connecttype="custom"></v:path>&#xD;
                       <w10:wrap anchorx="page"></w10:wrap>&#xD;
                     </v:shape>&#xD;
@@ -1719,7 +1714,7 @@
               <w:t>Ability to identify process improvements, come up with solutions and coordinate eﬀorts under general management direction.</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="Heading1"></w:pStyle>&#xD;
               <w:spacing w:before="0" w:line="330" w:lineRule="exact"></w:spacing>&#xD;
@@ -1732,7 +1727,7 @@
               <mc:AlternateContent>&#xD;
                 <mc:Choice Requires="wps">&#xD;
                   <w:drawing>&#xD;
-                    <wp:anchor xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15735296" simplePos="0" wp14:anchorId="52AE98C2" wp14:editId="1B176DD8">&#xD;
+                    <wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15735296" simplePos="0">&#xD;
                       <wp:simplePos x="0" y="0"></wp:simplePos>&#xD;
                       <wp:positionH relativeFrom="page">&#xD;
                         <wp:posOffset>592455</wp:posOffset>&#xD;
@@ -1793,8 +1788,8 @@
                   </w:drawing>&#xD;
                 </mc:Choice>&#xD;
                 <mc:Fallback>&#xD;
-                  <w:pict wp14:anchorId="0CA47D60">&#xD;
-                    <v:line from="46.65pt,8.3pt" id="Line 29" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15735296;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="278.25pt,8.3pt" wp14:anchorId="758B2CA3" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
+                  <w:pict>&#xD;
+                    <v:line from="46.65pt,8.3pt" id="Line 29" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15735296;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="278.25pt,8.3pt" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
                       <v:stroke dashstyle="1 1"></v:stroke>&#xD;
                       <w10:wrap anchorx="page"></w10:wrap>&#xD;
                     </v:line>&#xD;
@@ -1809,7 +1804,7 @@
               <mc:AlternateContent>&#xD;
                 <mc:Choice Requires="wps">&#xD;
                   <w:drawing>&#xD;
-                    <wp:anchor xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15735808" simplePos="0" wp14:anchorId="0F27333B" wp14:editId="2431D930">&#xD;
+                    <wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15735808" simplePos="0">&#xD;
                       <wp:simplePos x="0" y="0"></wp:simplePos>&#xD;
                       <wp:positionH relativeFrom="page">&#xD;
                         <wp:posOffset>4238625</wp:posOffset>&#xD;
@@ -1870,8 +1865,8 @@
                   </w:drawing>&#xD;
                 </mc:Choice>&#xD;
                 <mc:Fallback>&#xD;
-                  <w:pict wp14:anchorId="1BC36599">&#xD;
-                    <v:line from="333.75pt,8.3pt" id="Line 28" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15735808;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="566.65pt,8.3pt" wp14:anchorId="7CF84972" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
+                  <w:pict>&#xD;
+                    <v:line from="333.75pt,8.3pt" id="Line 28" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15735808;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="566.65pt,8.3pt" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQBzZKfswQEAAGMDAAAOAAAAZHJzL2Uyb0RvYy54bWysU02P2yAQvVfqf0DcG+ej3V1bcfaQdHvZ&#xA;tpF2+wMmgG1UzCCGxPa/L5CPrtpb1QsCZubx3pth/Tj2hp2UJ4225ovZnDNlBUpt25r/eH368MAZ&#xA;BbASDFpV80kRf9y8f7ceXKWW2KGRyrMIYqkaXM27EFxVFCQ61QPN0Ckbgw36HkI8+raQHoaI3pti&#xA;OZ/fFQN66TwKRRRvd+cg32T8plEifG8aUoGZmkduIa8+r4e0Fps1VK0H12lxoQH/wKIHbeOjN6gd&#xA;BGBHr/+C6rXwSNiEmcC+wKbRQmUNUc1i/oealw6cylqiOeRuNtH/gxXfTlu794m6GO2Le0bxk5jF&#xA;bQe2VZnA6+Ri4xbJqmJwVN1K0oHc3rPD8BVlzIFjwOzC2Pg+QUZ9bMxmTzez1RiYiJfL8tP9wyr2&#xA;RFxjBVTXQucpfFHYs7SpudE2+QAVnJ4pJCJQXVPStcUnbUzupbFsiGzvytUqVxAaLVM05ZFvD1vj&#xA;2QniOJTL8mN5n2XFyNu0BL0D6s55NNEOw3lSPB6tzO90CuTnyz6ANud95GXsxadkTZpDqg4op72/&#xA;+hc7mQVcpi6Nyttzrv79Nza/AAAA//8DAFBLAwQUAAYACAAAACEA24swaN4AAAAKAQAADwAAAGRy&#xA;cy9kb3ducmV2LnhtbEyPwU7DMAyG70i8Q2QkbiztKsLUNZ0mJNAO48BA7Jo1pq1onNJkW9nT42kH&#xA;ONr/p9+fi8XoOnHAIbSeNKSTBARS5W1LtYb3t6e7GYgQDVnTeUINPxhgUV5fFSa3/kiveNjEWnAJ&#xA;hdxoaGLscylD1aAzYeJ7JM4+/eBM5HGopR3MkctdJ6dJoqQzLfGFxvT42GD1tdk7DXY9TVOKbr1d&#xA;0XL1Mjs999+nD61vb8blHETEMf7BcNZndSjZaef3ZIPoNCj1cM8oB0qBOANplmUgdpeNLAv5/4Xy&#xA;FwAA//8DAFBLAQItABQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAAAAAAAAAAAAAAAAAAABbQ29u&#xA;dGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhADj9If/WAAAAlAEAAAsAAAAAAAAAAAAAAAAA&#xA;LwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAHNkp+zBAQAAYwMAAA4AAAAAAAAAAAAAAAAA&#xA;LgIAAGRycy9lMm9Eb2MueG1sUEsBAi0AFAAGAAgAAAAhANuLMGjeAAAACgEAAA8AAAAAAAAAAAAA&#xA;AAAAGwQAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAABAAEAPMAAAAmBQAAAAA=&#xA;" o:spid="_x0000_s1026">&#xD;
                       <v:stroke dashstyle="1 1"></v:stroke>&#xD;
                       <w10:wrap anchorx="page"></w10:wrap>&#xD;
                     </v:line>&#xD;
@@ -1886,7 +1881,7 @@
               <w:t>Skills</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="7"></w:spacing>&#xD;
@@ -1915,7 +1910,7 @@
               <w:gridCol w:w="5528"></w:gridCol>&#xD;
               <w:gridCol w:w="4200"></w:gridCol>&#xD;
             </w:tblGrid>&#xD;
-            <w:tr xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+            <w:tr>&#xD;
               <w:tc>&#xD;
                 <w:tcPr>&#xD;
                   <w:tcW w:type="dxa" w:w="5528"></w:tcW>&#xD;
@@ -2094,7 +2089,7 @@
               </w:tc>&#xD;
             </w:tr>&#xD;
           </w:tbl>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="2"></w:spacing>&#xD;
@@ -2103,7 +2098,7 @@
               </w:rPr>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="Heading1"></w:pStyle>&#xD;
               <w:ind w:left="1973"></w:ind>&#xD;
@@ -2118,7 +2113,7 @@
               <mc:AlternateContent>&#xD;
                 <mc:Choice Requires="wps">&#xD;
                   <w:drawing>&#xD;
-                    <wp:anchor xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15736320" simplePos="0" wp14:anchorId="6DE50F5C" wp14:editId="33D2F052">&#xD;
+                    <wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15736320" simplePos="0">&#xD;
                       <wp:simplePos x="0" y="0"></wp:simplePos>&#xD;
                       <wp:positionH relativeFrom="page">&#xD;
                         <wp:posOffset>592455</wp:posOffset>&#xD;
@@ -2179,8 +2174,8 @@
                   </w:drawing>&#xD;
                 </mc:Choice>&#xD;
                 <mc:Fallback>&#xD;
-                  <w:pict wp14:anchorId="0AF8CE2E">&#xD;
-                    <v:line from="46.65pt,10.3pt" id="Line 27" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15736320;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="222.95pt,10.3pt" wp14:anchorId="235DF00F" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
+                  <w:pict>&#xD;
+                    <v:line from="46.65pt,10.3pt" id="Line 27" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15736320;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="222.95pt,10.3pt" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
                       <v:stroke dashstyle="1 1"></v:stroke>&#xD;
                       <w10:wrap anchorx="page"></w10:wrap>&#xD;
                     </v:line>&#xD;
@@ -2195,7 +2190,7 @@
               <mc:AlternateContent>&#xD;
                 <mc:Choice Requires="wps">&#xD;
                   <w:drawing>&#xD;
-                    <wp:anchor xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15736832" simplePos="0" wp14:anchorId="078B2DB8" wp14:editId="59C895ED">&#xD;
+                    <wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15736832" simplePos="0">&#xD;
                       <wp:simplePos x="0" y="0"></wp:simplePos>&#xD;
                       <wp:positionH relativeFrom="page">&#xD;
                         <wp:posOffset>4940935</wp:posOffset>&#xD;
@@ -2256,8 +2251,8 @@
                   </w:drawing>&#xD;
                 </mc:Choice>&#xD;
                 <mc:Fallback>&#xD;
-                  <w:pict wp14:anchorId="60C4EBF9">&#xD;
-                    <v:line from="389.05pt,10.3pt" id="Line 26" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15736832;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="566.65pt,10.3pt" wp14:anchorId="121BB4A2" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
+                  <w:pict>&#xD;
+                    <v:line from="389.05pt,10.3pt" id="Line 26" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15736832;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="566.65pt,10.3pt" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
                       <v:stroke dashstyle="1 1"></v:stroke>&#xD;
                       <w10:wrap anchorx="page"></w10:wrap>&#xD;
                     </v:line>&#xD;
@@ -2281,13 +2276,13 @@
               <w:t>Experience</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="Heading1"></w:pStyle>&#xD;
               <w:ind w:left="1973"></w:ind>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:spacing w:before="154"></w:spacing>&#xD;
               <w:ind w:left="165"></w:ind>&#xD;
@@ -2357,7 +2352,7 @@
               <w:t>present</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:spacing w:before="143"></w:spacing>&#xD;
               <w:ind w:left="165"></w:ind>&#xD;
@@ -2374,7 +2369,7 @@
               <w:t>Fidelity Investments</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -2387,7 +2382,7 @@
               <w:t>Develop, test, and deploy complex automation solutions using BPM, CDT and SAIL components</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -2400,7 +2395,7 @@
               <w:t>Develop and maintain existing Appian solutions and integrated systems</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -2416,7 +2411,7 @@
               <w:t>Translate business requirements into technical specifications and development tasks</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -2432,7 +2427,7 @@
               <w:t>Participate in Agile ceremonies such as daily stand-ups, sprint planning, and retrospectives.</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:spacing w:before="154"></w:spacing>&#xD;
               <w:ind w:left="165"></w:ind>&#xD;
@@ -2502,7 +2497,7 @@
               <w:t>01/2023</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:spacing w:before="143"></w:spacing>&#xD;
               <w:ind w:left="165"></w:ind>&#xD;
@@ -2570,7 +2565,7 @@
               <w:t>Co</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -2586,7 +2581,7 @@
               <w:t>Implement process automation solutions across the business using Business Intelligence tools</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -2602,7 +2597,7 @@
               <w:t>Develop expertise in existing and future strategic data source systems to streamline and improve information content transparency</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -2625,7 +2620,7 @@
               <w:t>solutions</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -2641,7 +2636,7 @@
               <w:t>Collaborate with system/data owners and business project teams to improve overall data quality and implement tactical solutions to automate repetitive, manual data clean-up and aggregation work</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:ind w:right="1038"></w:ind>&#xD;
@@ -2650,31 +2645,31 @@
               </w:rPr>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:ind w:right="1038"></w:ind>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:ind w:right="1038"></w:ind>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:ind w:right="1038"></w:ind>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:ind w:right="1038"></w:ind>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="11"></w:spacing>&#xD;
@@ -2683,7 +2678,7 @@
               </w:rPr>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:spacing w:before="36"></w:spacing>&#xD;
               <w:ind w:left="136"></w:ind>&#xD;
@@ -2771,7 +2766,7 @@
               <w:t>to 07/2022</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:spacing w:before="172"></w:spacing>&#xD;
               <w:ind w:left="136"></w:ind>&#xD;
@@ -2797,7 +2792,7 @@
               <w:t xml:space="preserve"> </w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -2816,7 +2811,7 @@
               <w:t>Design, develop, and test solutions to automate processes, activities, and tasks through using VBA ASP.NET and APPIAN</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -2835,7 +2830,7 @@
               <w:t>Work to resolve any technical implementation issues associated with operations by coordinating eﬀorts to perform necessary ﬁxes</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -2854,7 +2849,7 @@
               <w:t>Actively engages with the project team on follow-up actions and issues/resolution in a timely manner</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -2873,7 +2868,7 @@
               <w:t>Play a key role in the development team to build high-quality, high-performance, scalable code</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="12"></w:spacing>&#xD;
@@ -2882,7 +2877,7 @@
               </w:rPr>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:spacing w:before="36"></w:spacing>&#xD;
               <w:ind w:left="134"></w:ind>&#xD;
@@ -3003,7 +2998,7 @@
               <w:t>02/2020</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:spacing w:before="56"></w:spacing>&#xD;
               <w:ind w:left="134"></w:ind>&#xD;
@@ -3020,7 +3015,7 @@
               <w:t>Citibank</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -3039,7 +3034,7 @@
               <w:t>Determine Net Asset Value (NAV) for deﬁned contribution plans on a daily basis</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -3058,7 +3053,7 @@
               <w:t>Evaluate and reconcile funds including mutual, benchmark, commingled, and collective for production of client month-end reports for daily valuation</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -3077,7 +3072,7 @@
               <w:t>Analyze the impact of transactions, income positions, accruals, and corporate actions on the portfolio investment options</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -3096,7 +3091,7 @@
               <w:t>Value funds on a daily, weekly, or monthly basis- Manages procedure enhancement projects using VBA and SQL</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="7"></w:spacing>&#xD;
@@ -3105,7 +3100,7 @@
               </w:rPr>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:spacing w:before="36"></w:spacing>&#xD;
               <w:ind w:left="139"></w:ind>&#xD;
@@ -3175,7 +3170,7 @@
               <w:t>11/2018</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:spacing w:before="57"></w:spacing>&#xD;
               <w:ind w:left="139"></w:ind>&#xD;
@@ -3209,7 +3204,7 @@
               <w:t>Bank</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -3228,7 +3223,7 @@
               <w:t xml:space="preserve"> Delivering software solutions using the Microsoft technology stack (C#, VB.Net, .NET, ASP.NET, SQL Server)</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -3247,7 +3242,7 @@
               <w:t xml:space="preserve">Review and debug code to identify defects, performance bottlenecks or technical debt </w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -3266,7 +3261,7 @@
               <w:t>Tests and executes analytical software upgrades to help improve performance levels</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:numPr>&#xD;
@@ -3285,7 +3280,7 @@
               <w:t>Create and maintain project documentation, including business requirements, process maps, and project plans</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="11"></w:spacing>&#xD;
@@ -3294,7 +3289,7 @@
               </w:rPr>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="10"></w:spacing>&#xD;
@@ -3303,7 +3298,7 @@
               </w:rPr>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="Heading1"></w:pStyle>&#xD;
             </w:pPr>&#xD;
@@ -3314,7 +3309,7 @@
               <mc:AlternateContent>&#xD;
                 <mc:Choice Requires="wps">&#xD;
                   <w:drawing>&#xD;
-                    <wp:anchor xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15744512" simplePos="0" wp14:anchorId="1D6E27AB" wp14:editId="006C33FE">&#xD;
+                    <wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15744512" simplePos="0">&#xD;
                       <wp:simplePos x="0" y="0"></wp:simplePos>&#xD;
                       <wp:positionH relativeFrom="page">&#xD;
                         <wp:posOffset>567055</wp:posOffset>&#xD;
@@ -3375,8 +3370,8 @@
                   </w:drawing>&#xD;
                 </mc:Choice>&#xD;
                 <mc:Fallback>&#xD;
-                  <w:pict wp14:anchorId="6DE80BD5">&#xD;
-                    <v:line from="44.65pt,10.1pt" id="Line 3" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15744512;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="265.3pt,10.1pt" wp14:anchorId="376AC225" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
+                  <w:pict>&#xD;
+                    <v:line from="44.65pt,10.1pt" id="Line 3" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15744512;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="265.3pt,10.1pt" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQBYMiJuwQEAAGMDAAAOAAAAZHJzL2Uyb0RvYy54bWysU8tu2zAQvBfoPxC815KVJo0FyznYTS9p&#xA;ayDJB6xJSiJKcQkubcl/X5J+NGhvRS4EuY/hzHC5fJgGww7Kk0bb8Pms5ExZgVLbruGvL4+f7jmj&#xA;AFaCQasaflTEH1YfPyxHV6sKezRSeRZBLNWja3gfgquLgkSvBqAZOmVjskU/QIhH3xXSwxjRB1NU&#xA;ZXlXjOil8ygUUYxuTkm+yvhtq0T42bakAjMNj9xCXn1ed2ktVkuoOw+u1+JMA/6DxQDaxkuvUBsI&#xA;wPZe/wM1aOGRsA0zgUOBbauFyhqimnn5l5rnHpzKWqI55K420fvBih+Htd36RF1M9tk9ofhFzOK6&#xA;B9upTODl6OLDzZNVxeiovrakA7mtZ7vxO8pYA/uA2YWp9UOCjPrYlM0+Xs1WU2AiBqv7sqpubzkT&#xA;l1wB9aXReQrfFA4sbRputE0+QA2HJwqJCNSXkhS2+KiNyW9pLBsj27vFzU3uIDRapmyqI9/t1saz&#xA;A8RxWFSLz4svWVbMvC1L0Bug/lRHR9pgOE2Kx72V+Z5egfx63gfQ5rSPvIw9+5SsSXNI9Q7lcesv&#xA;/sWXzALOU5dG5e05d//5G6vfAAAA//8DAFBLAwQUAAYACAAAACEA7F3mud4AAAAIAQAADwAAAGRy&#xA;cy9kb3ducmV2LnhtbEyPwU7DMBBE70j8g7VIvVE7qVqFkE1VIYF6KAcKgqsbL0lEvA6x26b9elxx&#xA;gOPsjGbeFsvRduJAg28dIyRTBYK4cqblGuHt9fE2A+GDZqM7x4RwIg/L8vqq0LlxR36hwzbUIpaw&#xA;zzVCE0KfS+mrhqz2U9cTR+/TDVaHKIdamkEfY7ntZKrUQlrdclxodE8PDVVf271FMJs0STjYzcea&#xA;V+vn7PzUf5/fESc34+oeRKAx/IXhgh/RoYxMO7dn40WHkN3NYhIhVSmI6M9nagFi93uQZSH/P1D+&#xA;AAAA//8DAFBLAQItABQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAAAAAAAAAAAAAAAAAAABbQ29u&#xA;dGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhADj9If/WAAAAlAEAAAsAAAAAAAAAAAAAAAAA&#xA;LwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAFgyIm7BAQAAYwMAAA4AAAAAAAAAAAAAAAAA&#xA;LgIAAGRycy9lMm9Eb2MueG1sUEsBAi0AFAAGAAgAAAAhAOxd5rneAAAACAEAAA8AAAAAAAAAAAAA&#xA;AAAAGwQAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAABAAEAPMAAAAmBQAAAAA=&#xA;" o:spid="_x0000_s1026">&#xD;
                       <v:stroke dashstyle="1 1"></v:stroke>&#xD;
                       <w10:wrap anchorx="page"></w10:wrap>&#xD;
                     </v:line>&#xD;
@@ -3391,7 +3386,7 @@
               <mc:AlternateContent>&#xD;
                 <mc:Choice Requires="wps">&#xD;
                   <w:drawing>&#xD;
-                    <wp:anchor xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15745024" simplePos="0" wp14:anchorId="25F48E09" wp14:editId="2D6BCD14">&#xD;
+                    <wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="114300" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="15745024" simplePos="0">&#xD;
                       <wp:simplePos x="0" y="0"></wp:simplePos>&#xD;
                       <wp:positionH relativeFrom="page">&#xD;
                         <wp:posOffset>4403090</wp:posOffset>&#xD;
@@ -3452,8 +3447,8 @@
                   </w:drawing>&#xD;
                 </mc:Choice>&#xD;
                 <mc:Fallback>&#xD;
-                  <w:pict wp14:anchorId="5ACF3B87">&#xD;
-                    <v:line from="346.7pt,10.1pt" id="Line 2" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15745024;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="564.65pt,10.1pt" wp14:anchorId="7CA78BB3" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
+                  <w:pict>&#xD;
+                    <v:line from="346.7pt,10.1pt" id="Line 2" strokecolor="#929497" strokeweight=".47036mm" style="position:absolute;z-index:15745024;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" to="564.65pt,10.1pt" o:gfxdata="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&#xA;" o:spid="_x0000_s1026">&#xD;
                       <v:stroke dashstyle="1 1"></v:stroke>&#xD;
                       <w10:wrap anchorx="page"></w10:wrap>&#xD;
                     </v:line>&#xD;
@@ -3468,7 +3463,7 @@
               <w:t>Education</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="5"></w:spacing>&#xD;
@@ -3478,7 +3473,7 @@
               </w:rPr>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:spacing w:before="36"></w:spacing>&#xD;
               <w:ind w:left="141"></w:ind>&#xD;
@@ -3619,7 +3614,7 @@
               <w:t>2023</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:spacing w:before="15"></w:spacing>&#xD;
               <w:ind w:left="141"></w:ind>&#xD;
@@ -3702,7 +3697,7 @@
               <w:t>Canada</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="11"></w:spacing>&#xD;
@@ -3711,7 +3706,7 @@
               </w:rPr>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:ind w:left="141"></w:ind>&#xD;
               <w:rPr>&#xD;
@@ -3919,7 +3914,7 @@
               <w:t>2019</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:spacing w:before="16"></w:spacing>&#xD;
               <w:ind w:left="141"></w:ind>&#xD;
@@ -4034,7 +4029,7 @@
               <w:t>Poland</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:pStyle w:val="BodyText"></w:pStyle>&#xD;
               <w:spacing w:before="11"></w:spacing>&#xD;
@@ -4043,7 +4038,7 @@
               </w:rPr>&#xD;
             </w:pPr>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:ind w:left="141"></w:ind>&#xD;
               <w:rPr>&#xD;
@@ -4236,7 +4231,7 @@
               <w:t>2016</w:t>&#xD;
             </w:r>&#xD;
           </w:p>&#xD;
-          <w:p xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordml">&#xD;
+          <w:p>&#xD;
             <w:pPr>&#xD;
               <w:spacing w:before="15"></w:spacing>&#xD;
               <w:ind w:left="141"></w:ind>&#xD;
